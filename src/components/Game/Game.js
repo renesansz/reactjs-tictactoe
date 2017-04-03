@@ -2,7 +2,7 @@ import React from 'react';
 
 import Board from '../Board/Board';
 
-import './styles.css';
+import './Game.css';
 
 /**
  * @class Game
