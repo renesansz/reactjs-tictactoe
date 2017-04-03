@@ -1,5 +1,7 @@
 # Tic Tac Toe
 
+This project is baed on React's sample app called [Tic-Tac-Toe](http://codepen.io/ericnakagawa/pen/ALxakj)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
